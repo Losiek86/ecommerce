@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/Losiek86/ecommerce.svg?branch=master)](https://travis-ci.org/Losiek86/ecommerce)
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
